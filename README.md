@@ -1,5 +1,18 @@
 ## Hi there 👋
+Welcome to my GitHub profile! My name is Tim and I'm passionate about Economic Data Analysis and enjoy working on projects that combine data, code, and economics.
 
+💡 My main interests include:
+📊 Data Analysis in R
+Focus on methods such as:  
+    └── [Difference-in-Differences](link.com)   
+    └── [Event Studies](linkk.com)  
+    └── [Fixed Effects Models](link.com)  
+
+🧠 Agent-Based Modelling  
+Exploring complex systems and simulations using [agent-based modelling](link.com)  
+
+🌐 Web Scraping  
+Automating data collection from websites with [web scraping techniques](link.com)  
 <!--
 **timbirkert/timbirkert** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
