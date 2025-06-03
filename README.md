@@ -2,12 +2,10 @@
 Welcome to my GitHub profile! My name is Tim and I'm passionate about Economic Data Analysis and enjoy working on projects that combine data, code, and economics.
 
 💡 My main interests include: 
-   
-📊 Data Analysis in R
-Focus on methods such as:  
-    └── [Difference-in-Differences](link.com)   
-    └── [Event Studies](linkk.com)  
-    └── [Fixed Effects Models](link.com)  
+
+📊 Data Analysis in R  
+Applied econometrics using methods such as [Difference-in-Differences](https://github.com/timbirkert/Econometric-Analysis) and [Event Studies](https://github.com/timbirkert/Econometric-Analysis/tree/main/Analysis_Results)
+
 
 🧠 Agent-Based Modelling  
 Exploring complex systems and simulations using [agent-based modelling](https://github.com/timbirkert/Agent-based-model---Higher-order-thinking/tree/main)   
