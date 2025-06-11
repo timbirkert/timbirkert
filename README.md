@@ -11,7 +11,7 @@ Applied econometrics using methods such as [Difference-in-Differences](https://g
 Exploring complex systems and simulations using [agent-based modelling](https://github.com/timbirkert/Agent-based-model---Higher-order-thinking/tree/main)   
 
 🌐 Web Scraping  
-Automating data collection from websites with [web scraping techniques](https://github.com/timbirkert/Weather_newsletter/tree/main)   
+Automating data collection from websites with [web scraping techniques](https://github.com/timbirkert/web_scraper---tax_office_rating)   
 <!--
 **timbirkert/timbirkert** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
